@@ -10,8 +10,11 @@
 
 ## 📄 Submission Deliverables
 
-* 📘 **[Lab 1 Report: Display Density Metrics & Image Array Mechanics in NumPy (PDF)](Hammad_Assginment.pdf)**
-* 📗 **[Mini Assignment: Deconstructing HCI & Computer Graphics in Daily Software (PDF)](Hammad_Assginment_GoogleEarth.pdf)**
+## 📄 Submission Deliverables
+
+* 📘 **[Assignment 1: Lab 1 Report - Display Density & NumPy Mechanics (PDF)](Hammad_Assginment.pdf)**
+* 📗 **[Assignment 2: Google Earth HCI vs CG Case Study (PDF)](Hammad_Assginment_GoogleEarth.pdf)**
+* 📁 **[Source Code & Python Scripts](code/)***
 
 ---
 
