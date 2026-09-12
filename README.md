@@ -10,8 +10,6 @@
 
 ## 📄 Submission Deliverables
 
-## 📄 Submission Deliverables
-
 * 📘 **[Assignment 1: Lab 1 Report - Display Density & NumPy Mechanics (PDF)](Hammad_Assginment.pdf)**
 * 📗 **[Assignment 2: Google Earth HCI vs CG Case Study (PDF)](Hammad_Assginment_GoogleEarth.pdf)**
 * 📁 **[Source Code & Python Scripts](code/)***
