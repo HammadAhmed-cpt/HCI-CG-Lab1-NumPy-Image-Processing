@@ -1,6 +1,6 @@
 # Human-Computer Interaction (HCI) & Computer Graphics (CG)
 
-**Course:** Introductory HCI & Computer Graphics[cite: 4]  
+**Course:** Introductory HCI & Computer Graphics 
 **Department:** IMCS - Computer Science PE, University of Sindh[cite: 4]  
 **Instructor:** Sir Rajeesh[cite: 4]  
 **Student Name:** Hammad Ahmed[cite: 3, 4]  
