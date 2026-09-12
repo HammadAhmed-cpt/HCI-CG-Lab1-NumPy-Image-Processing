@@ -10,7 +10,7 @@
 
 ## 📄 Submission Deliverables
 
-* 📘 **[Lab 1 Report: Display Density Metrics & Image Array Mechanics in NumPy (PDF)](Hammad_Assginment_2.pdf)**
+* 📘 **[Lab 1 Report: Display Density Metrics & Image Array Mechanics in NumPy (PDF)](Hammad_Assginment.pdf)**
 * 📗 **[Mini Assignment: Deconstructing HCI & Computer Graphics in Daily Software (PDF)](Hammad_Assginment_GoogleEarth.pdf)**
 
 ---
